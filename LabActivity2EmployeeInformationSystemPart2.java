@@ -2,7 +2,7 @@ import java.util.Scanner; // Includes the scanner class from the java.util packa
 import java.math.RoundingMode; // Includes rounding off
 import java.text.DecimalFormat; // Includes formatting decimal places
 
-public class LabActivity2EmployeeInformationSystemPart2 {
+public class LabActivity2EmployeeInformationSystemPart2 { // Class Declaration
     public static void main(String[] args) { // Main Method
         Scanner scanner = new Scanner(System.in); // Creating a Scanner object to read user input
 
